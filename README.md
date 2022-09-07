@@ -14,4 +14,8 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 :doughnut: Decided to give my passion for pastry ago and studied at Le Cordon Bleu for 2.5 years completing a level 5 in French Patisserie
 
+:postbox: Contact me
 
+Email: li.simon021@gmail.com
+
+Instagram: https://www.instagram.com/chefhoksibkao/
