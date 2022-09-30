@@ -18,4 +18,6 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 Email: li.simon021@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/simon-li-96a648251/
+
 Instagram: https://www.instagram.com/chefhoksibkao/
