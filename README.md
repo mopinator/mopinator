@@ -14,7 +14,7 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 :sunny: Worked in Melbourne Australia as a BA for the energy sector for 4 years
 
-:doughnut: Decided to give my passion for pastry ago and studied at Le Cordon Bleu for 2.5 years completing a level 5 in French Patisserie
+:doughnut: Decided to give my passion for pastry ago and studied at Le Cordon Bleu for 1.5 years completing a level 5 in French Patisserie
 
 :postbox: Contact me
 
