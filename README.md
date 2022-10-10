@@ -6,13 +6,13 @@ Recently completed my Level 4 Full Stack Developer course at @ Mission Ready, in
 
 End goal after completing my internship in Wellington, will be to move to Thailand and be a bit of a digital nomad :)
 
-:computer: Currently studying Level 5 Software Development at Mission Ready here in Wellington, New Zealand <br/><br/>
-
+:computer: Currently studying Level 5 Software Development at Mission Ready here in Wellington, New Zealand 
+<br/><br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,nodejs,mongodb,mysql,github,git,docker,firebase" />
   </a>
-</p> <br/>
+</p>
 
 <p align="center">Skills: JavaScript | React.js | HTML | CSS | Node.js | MongoDB | MySQL | GitHub | Docker </p>
 
