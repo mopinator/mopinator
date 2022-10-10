@@ -29,3 +29,7 @@ Email: li.simon021@gmail.com
 LinkedIn: https://www.linkedin.com/in/simon-li-96a648251/
 
 Instagram: https://www.instagram.com/chefhoksibkao/
+
+<a href="https://www.instagram.com/chefhoksibkao/">
+  <img align="left" alt="Simons Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
