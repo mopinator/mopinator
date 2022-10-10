@@ -27,8 +27,8 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 📫 li.simon021@gmail.com
 
 <a href="https://www.instagram.com/chefhoksibkao/">
-  <img align="left" alt="Simon's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Simon's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/simon-li-96a648251/">
-  <img align="left" alt="Simon's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Simon's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
