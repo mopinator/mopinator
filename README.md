@@ -10,7 +10,7 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,CSS" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,nodejs,mongodb,mysql,github,git,docker,firebase" />
   </a>
 </p>
 
