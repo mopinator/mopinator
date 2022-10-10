@@ -8,9 +8,11 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 :computer: Currently studying Level 5 Software Development at Mission Ready here in Wellington, New Zealand
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript, HTML, CSS" />
+  </a>
+</p>
 
    Skills: React.js | HTML | CSS | JavaScript | Node.js | MongoDB | MySQL | GitHub | Docker
 
