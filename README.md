@@ -14,7 +14,7 @@ End goal after completing my internship in Wellington, will be to move to Thaila
   </a>
 </p> <br/>
 
-   Skills: JavaScript | React.js | HTML | CSS | Node.js | MongoDB | MySQL | GitHub | Docker
+<p align="center">Skills: JavaScript | React.js | HTML | CSS | Node.js | MongoDB | MySQL | GitHub | Docker </p>
 
 :iphone: Worked at Vodafone NZ for 7 years, doing retail and corprate sales
 
