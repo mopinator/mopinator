@@ -12,7 +12,7 @@ End goal after completing my internship in Wellington, will be to move to Thaila
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,nodejs,mongodb,mysql,github,git,docker,firebase" />
   </a>
-</p>
+</p> <br/><br/>
 
    Skills: React.js | HTML | CSS | JavaScript | Node.js | MongoDB | MySQL | GitHub | Docker
 
