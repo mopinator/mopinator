@@ -24,7 +24,7 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 :postbox: Contact me
 
-Email: li.simon021@gmail.com
+📫 li.simon021@gmail.com
 
 <a href="https://www.instagram.com/chefhoksibkao/">
   <img align="left" alt="Simon's Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
