@@ -8,10 +8,6 @@ End goal after completing my internship in Wellington, will be to move to Thaila
 
 :computer: Currently studying Level 5 Software Development at Mission Ready here in Wellington, New Zealand
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,mongodb,mysql,github,docker)
-
    Skills: React.js | HTML | CSS | JavaScript | Node.js | MongoDB | MySQL | GitHub | Docker
 
 :iphone: Worked at Vodafone NZ for 7 years, doing retail and corprate sales
